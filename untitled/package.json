@@ -1,0 +1,11 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "untitled, template project",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dch",
+  "license": "ISC"
+}
